@@ -1,0 +1,50 @@
+{
+  "Desayuno": [
+      {
+          "type": "Café americano",
+          "precio": "5"
+      },
+      {
+          "type": "Café con leche",
+          "precio": "7"
+      },
+      {
+          "type": "Sandwich de jamón y queso",
+          "precio": "10"
+      },
+      {
+          "type": "Jugo natural",
+          "precio": "7"
+      }
+  ],
+  "Comida": [
+      {
+          "type": "Hamburguesa simple",
+          "precio": "10"
+      },
+      {
+          "type": "Hamburguesa doble",
+          "precio": "15"
+      },
+      {
+          "type": "Papas fritas",
+          "precio": "5"
+      },
+      {
+          "type": "Agua 500ml",
+          "precio": "5"
+      },
+      {
+          "type": "Agua 750ml",
+          "precio": "7"
+      },
+      {
+          "type": "Refresco 500ml",
+          "precio": "7"
+      },
+      {
+          "type": "Refresco 750ml",
+          "precio": "10"
+      }
+  ]
+}

@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
-import Form from '../../Components/Form/Form';
+import Form from '../../Components/Form';
+import Header from '../../Components/Header';
 
 import './Login.css';
 
 class Login extends Component {
   render() {
     return (
-      <div className="Container">
-         <div className="row">
-            <div><Form/></div>
-         </div>
+      <div className="Container1">
+          <Header/>
+          <Form/>
       </div>
     );
   }
